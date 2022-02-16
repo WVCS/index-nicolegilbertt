@@ -1,3 +1,19 @@
 body {
+h4 {
+  color: #49835D;
+  font-size: 40px
+}
+
+body {
+  background-color: #728B97
+  }
+
+img {
+  border: dotted 7px
+}
+
+img:hover {
+  border:dotted 7px #A37774;
+}
 
 }
